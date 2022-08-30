@@ -13,10 +13,10 @@
 ### - Adicionando JavaScript no projeto;
 ### - 
 
-### -😵 Bug encontrado: Editar tarefa não está exibindo!
+### -😵 Bug encontrado: Edit!
 ### -💹 Bug corrigido, configuração JS e HTML;
 
-### -😵 Bug encontrado: Editar -> undefined
+### -
 
 
 
