@@ -16,11 +16,12 @@
 ### -😵 Bug encontrado: Editar tarefa não está exibindo!
 ### -💹 Bug corrigido, configuração JS e HTML;
 
+### -😵 Bug encontrado: Editar -> undefined
 
 
 
 
 ### Update -> Adicionado favIcon;
 
-### :dizzy_face: Bug encontrado: Editar tarefa não está exibindo!
+
 
