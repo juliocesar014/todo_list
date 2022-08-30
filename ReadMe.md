@@ -13,6 +13,9 @@
 ### - Adicionando JavaScript no projeto;
 ### - 
 
+### -😵 Bug encontrado: Editar tarefa não está exibindo!
+### -💹 Bug corrigido, configuração JS e HTML;
+
 
 
 
