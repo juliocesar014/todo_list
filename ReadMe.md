@@ -17,4 +17,7 @@
 
 
 
-## Update -> Adicionado favIcon;
+### Update -> Adicionado favIcon;
+
+### :dizzy_face: Bug encontrado: Editar tarefa não está exibindo!
+
