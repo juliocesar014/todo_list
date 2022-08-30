@@ -22,6 +22,6 @@
 
 
 ### Update -> Adicionado favIcon;
-
+### Update - > Dark Mode;
 
 
